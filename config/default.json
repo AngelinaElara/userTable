@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "mongoUrl" : "mongodb+srv://admin:1234qwer@cluster0.ysma3jl.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "Fullstack"
+}
